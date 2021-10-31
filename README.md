@@ -80,7 +80,7 @@ MISO AI Challenge 2021은 '인공지능 학습용 데이터 구축 사업'을 �
     <td align=center>
       <strong>본선</strong><br>
     </td>
-    <td style="text-align:center">2021년 11월 20일 ~ 11월 23일(목)</td>
+    <td style="text-align:center">2021년 11월 20일 ~ 11월 23일</td>
  <td align=center> 온라인
     </td>
    </tr>
